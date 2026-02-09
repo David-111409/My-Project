@@ -14,3 +14,4 @@ hello 3
 10
 jkjkiudf
 This is the number 11
+this is just a file to learn the basic commands of git and git hub to deal with it.
